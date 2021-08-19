@@ -62,6 +62,6 @@ def main(sequence_length, series):
 
 
 if __name__ == "__main__":
-    sequence_length = 100_000
+    sequence_length = 1_000_000
     series = "gl"
     main(sequence_length, series)
